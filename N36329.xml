@@ -106,8 +106,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:047474_0000_1023B19C7970D968"/>
-            <pb facs="tcp:047474_0001_1023B244A9349580"/>
+            <pb facs="unknown:047474_0000_1023B19C7970D968"/>
+            <pb facs="unknown:047474_0001_1023B244A9349580"/>
             <p>THE JUVENILE MISCELLANY, <hi>IN PROSE &amp; VERSE.</hi> SELECTED FROM THE WRITINGS OF EMINENT AUTHORS.</p>
             <p>
                <hi>"Delectando pariter atque docend<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -118,7 +118,7 @@
                <hi>PHILADELPHIA:</hi> PRINTED FOR THE COMPILER, BY MORTECAI JONES, N<hi rend="sup">o</hi>. 3, MORAVIAN ALLEY. M,DCC,XCV.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:047474_0002_10239F45744EBB58"/>
+            <pb facs="unknown:047474_0002_10239F45744EBB58"/>
             <head>PREFACE.</head>
             <p>TO inculcate the principles of virtue and morality, in the young and riſ<g ref="char:EOLhyphen"/>ing generation, is, no doubt, an object of the greateſt importance: and to effect this purpoſe, is the chief inducement with the compiler of this ſmall volume, for in<g ref="char:EOLhyphen"/>truding it on the public.</p>
             <p>From the compilation of a youth, peo<g ref="char:EOLhyphen"/>ple arrived at maturity can expect <gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -128,29 +128,30 @@
                </gap>o<g ref="char:EOLhyphen"/>bable that moſt of the readers, who ſhall peruſe this volume, will be little more advanced in life than himſelf, he hopes it may contribute both to their entertain<g ref="char:EOLhyphen"/>ment and inſtruction.</p>
             <p>Should this be the caſe a which from the opinion of ſeveral judicious friends, to whom he has ſubmitted the manuſcript, it will, it may prove as an incitement to his proceeding in ſome other undertaking, which, as he advances further in life, he truſts, may prove more conducive to public utility: to promote which, he knows to be the duty of every good cit<g ref="char:EOLhyphen"/>izen.</p>
             <p>
-               <pb n="iv" facs="tcp:047474_0003_1023B1A0C5A74018"/>It would be ungrateful on the preſent occaſion, to omit returning thanks, to his many friends, who have patronized him with their ſubſcriptions; and happy ſhall he be, if upon peruſal, it is found to anſwer their expectations.</p>
+               <pb n="iv" facs="unknown:047474_0003_1023B1A0C5A74018"/>It would be ungrateful on the preſent occaſion, to omit returning thanks, to his many friends, who have patronized him with their ſubſcriptions; and happy ſhall he be, if upon peruſal, it is found to anſwer their expectations.</p>
          </div>
       </front>
       <body>
          <head>THE JUVENILE MISCELLANY.</head>
          <div type="prose_piece">
-            <pb facs="tcp:047474_0004_1023B165091A4E98" rendition="simple:additions"/>
+            <pb facs="unknown:047474_0004_1023B165091A4E98"
+                rendition="simple:additions"/>
             <head>ON DEVOTION.</head>
             <p>DEVOTION, conſidered ſimply in itſelf, is an intercourſe betwixt God and us; betwixt the Supreme, ſelf-exiſtent, inconceivable Spirit, which formed and preſerves the univerſe; and that par<g ref="char:EOLhyphen"/>ticular ſpirit, with which, for awful reaſons, he has animated a portion of matter upon earth that we call man. It is a ſilent act in which the ſoul di<g ref="char:EOLhyphen"/>veſts itſelf of outward things, flies into heaven, and pours forth all its wants, wiſhes, hopes, fears, guilt or pleaſures, into the boſom of an Almighty Friend. Though this devotion, in its firſt ſtages, may be a weariſome and inſipid exerciſe; yet this ariſes mere<g ref="char:EOLhyphen"/>ly from the depravity of nature and our paſſions. A little habit will overcome the reluctance when you have fairly entered upon your journey; the ways of this wiſdom will be ways of pleaſantneſs, and all its paths peace. True devotion, doubtleſs requires a conſiderable degree of abſtraction from the world: hence modern chriſtians treat it as a vi<g ref="char:EOLhyphen"/>ſion; hence many modern writers have little of its
-<pb n="6" facs="tcp:047474_0005_1023B1A2581D4B48"/>
+<pb n="6" facs="unknown:047474_0005_1023B1A2581D4B48"/>
 unction; but it glows in the ſcriptures, it warms us in the fathers, it burned in an Auſtin, and in ma<g ref="char:EOLhyphen"/>ny others of the perſecuted martyrs who are now with God. That we have little of it, is not won<g ref="char:EOLhyphen"/>derful; it makes no noiſe in the circle of the learn<g ref="char:EOLhyphen"/>ed, or of the elegant under a heap of worldly cares: we ſmother the lovely infant and will not let it breathe.</p>
             <p>Vanity, ambition, pleaſure, avarice, quench the celeſtial fire: and theſe, alas, are too much the gods of mortals ever ſince the world began! Wri<g ref="char:EOLhyphen"/>ters have been amuſing us only with ſhadows of this piety, inſtead of giving us its ſoul and ſubſtance. Superſtition has placed it in opinion, ceremonies, auſterities, pilgrimages, perſecutions, an auguſt temple or ſplendid imagery, which has little con<g ref="char:EOLhyphen"/>nection with ſentiment or ſpirit. Enthuſiaſm has ſwelled with unnatural conceptions, and obtruded a ſpurious offspring upon the world inſtead of the engaging child of reaſon and truth; whilſt the luke<g ref="char:EOLhyphen"/>warm and indifferent, have reſted in a few outward duties which have had no vigor: and as they ſpring not from the heart, never entered the temple of the Moſt High.</p>
             <p>Real piety is of a very different, and of a much more animated nature; it looks up to God, ſees, hears, and feels him in every event, in every vi<g ref="char:EOLhyphen"/>ciſſitude, in all places, in all ſeaſons and upon all occaſions; it is theory vivified by experience, it is faith ſubſtantiated by mental enjoyment; it is heaven tranſplanted in the human boſom; it is the radiance of the Divinity, warming and encircling man; it is a ſpiritual ſenſe gratfiied by ſpiritual ſenſations: without this, all ceremonies are inefficacious; books, prayers, ſacraments and meditations, are but a bo<g ref="char:EOLhyphen"/>dy without a ſoul, or a ſtatue without animation.
-<pb n="7" facs="tcp:047474_0006_1023B1668E312DC0"/>
+<pb n="7" facs="unknown:047474_0006_1023B1668E312DC0"/>
 That man is capable of having ſuch an intercourſe with his Maker, there are many living witneſſes to prove, without having recourſe to the viſions of fanatics, or the dreams of enthuſiaſts. It may be proved to ſpring from natural and philoſophical cauſes; God is a ſpirit, ſo is the mind. Bodies can have intercourſe, ſo can ſouls: when minds are in an aſſimulating ſtate of purity, they are in union with their Maker. This was the bliſs of Paradiſe; ſin interrupted, and holineſs muſt reſtore it to a ſoul thus diſpoſed. The Creator communicates himſelf in a manner which is as inſenſible to the natural eye, as the falling of the dews; but not leſs refreſhing to its ſecret powers, than that is to vegetation. The primitive ſaints are deſcribing this when they ſpeak of their tranſports. David felt it when he longed for God. <hi>As the hart panteth after the water-brooks.</hi> Paul, when he gloried in his tribulations, it was embodied in him when he was carried up into the Third heaven and heard <hi>things impoſſible to be utter<g ref="char:EOLhyphen"/>ed.</hi> Stephen was filled with it, when he ſaw the <hi>Heavens opened, and prayed for his murderers.</hi> By it, martyrs were ſupported when they were ſtoned and ſawed aſunder: and till we feel it in ourſelves, we ſhall never fully know how gracious the Lord is. If you can acquire this ſpiritual abſtraction, you will at once have made your fortune for eternity; it will be of little moment what is your lot on earth, or what the diſtinguiſhing viciſſitudes of your life; proſperity or adverſity, health or ſickneſs, honor or diſgrace; a cottage or a crown will all be ſo ma<g ref="char:EOLhyphen"/>ny inſtruments of glory: the whole creation will become a temple; every event and every object lead your mind to God. And in his greatneſs and perfection you will inſenſibly loſe the littleneſs, the glare and tinſel of all human things. If I wiſh on<g ref="char:EOLhyphen"/>ly
-<pb n="8" facs="tcp:047474_0007_1023B1A4B543D570"/>
+<pb n="8" facs="unknown:047474_0007_1023B1A4B543D570"/>
 to ſet off your perſons to the greateſt advantage, I would recommend this true ſublime religion; it gives a pleaſing ſerenity to the countenance, and a chearfulneſs to the ſpirits, beyond the reach of art or the power of affectation. It communicates a real tranſport to the mind, which diſſipation mimicks for a moment, a ſweetneſs to the diſpoſition and luſtre to the manners, which all the airs of modern polite<g ref="char:EOLhyphen"/>neſs ſtudy but in vain.</p>
          </div>
          <div type="prose_piece">
             <head>THE CHINA-ASTER.</head>
             <p>I PLANTED it with my own hand, ſaid my lit<g ref="char:EOLhyphen"/>tle ſiſter, holding up a withered China-aſter, plucked up by the roots.—I covered it from the ſun, I watered it night and morning; and after all (wiping her eyes with the corner of her frock) af<g ref="char:EOLhyphen"/>ter all it is dead!—" Alas! how many are the occurrences in life, thought I, which reſemble Ma<g ref="char:EOLhyphen"/>ry's flower.—Too eaſily believing what we wiſh, we adopt ſome pretty trifle; and laying it as it were in our boſom, love it "as a daughter." Fan<g ref="char:EOLhyphen"/>cy paints it in gay colors; increaſing in beauty, we ſee its little leaves expand, and trace its progreſs with anxious ſolicitude, from the ſwelling bud to the full blown; and then when we fondly expect to enjoy it, reality tells us after all it is dead!—</p>
             <p>How often does an only ſon engroſs all the care of his parents, and wind himſelf round every fibre of their hearts. To cheriſh the idol, is every wiſh on the ſtretch, to indulge it are all the rarities of art and nature procured. Sleepleſs nights and anx<g ref="char:EOLhyphen"/>ious days, are their lot: and lo! when they hope
-<pb n="9" facs="tcp:047474_0008_1023B16814B0D448"/>
+<pb n="9" facs="unknown:047474_0008_1023B16814B0D448"/>
 to ſee the end of their labors, ſtruck by the hand of diſeaſe, or debaſed by the contaminating touch of vice, the agonizing parents find, after all, it is dead!—</p>
             <p>And how ſanguine are the expectations of thoſe relations and friends, who poſſeſs a lovely girl, en<g ref="char:EOLhyphen"/>dowed with all the charms of beauty and goodneſs— How do they exult in her very idea!—ſhe is the ſo<g ref="char:EOLhyphen"/>lace of their calamities, and the ſtaff of dependance for their declining years.—Friendſhip riſes in her defence like a wall; and affection nouriſhes her like the mild dews of ſpring—Ah! to how little pur<g ref="char:EOLhyphen"/>poſe! The canker-worm of love preys upon the de<g ref="char:EOLhyphen"/>licate root of this ſweet ſenſitive, and the ſcorch<g ref="char:EOLhyphen"/>ing winds of diſappointment drink up its moiſture! —It fades—The hands of friendſhip and af<g ref="char:EOLhyphen"/>fection are united to ſupport it in vain: for
 <q>
@@ -172,7 +173,7 @@ to ſee the end of their labors, ſtruck by the hand of diſeaſe, or debaſed b
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> us: we know not what to do with it, and are embarraſſ<g ref="char:EOLhyphen"/>ed
-<pb n="10" facs="tcp:047474_0009_1023B1A66C0DAA08"/>
+<pb n="10" facs="unknown:047474_0009_1023B1A66C0DAA08"/>
 about it. The day will arrive, when a quarter of an hour will appear more deſirable than all the riches in the univerſe. God who is liberal and ge<g ref="char:EOLhyphen"/>nerous in all his other gifts, teaches us by the wiſe economy of his providence, how circumſpect we ought to be in the right management of our time; for he never gives us two moments together, he gives only the ſecond as he takes away the firſt, and keeps the third in his hands, leaving us in an abſo<g ref="char:EOLhyphen"/>lute uncertainty whether it ſhall ever be ours or not.</p>
             <p>Time is given us that we may take care of eter<g ref="char:EOLhyphen"/>nity; and—eternity will not be too long to regret the loſs of our time if we have miſpent it.</p>
          </div>
@@ -181,7 +182,7 @@ about it. The day will arrive, when a quarter of an hour will appear more deſir
             <p>MY <hi>Daughter give me thy heart.</hi> Thy ſupreme affection none on earth can deſerve; hu<g ref="char:EOLhyphen"/>man attainments are all defective; human regards are often inſincere. Put not your truſt in the ſon of man; he may deceive, or he may change, or he may not be able to protect you: but of this kind you have nothing to fear from your Creator.</p>
             <p>Every thing in nature is ſubject to viciſſitude; and—nothing is more uſual than for men to adopt a different deportment, as their circumſtances or in<g ref="char:EOLhyphen"/>tereſts, their opinions or humors, vary. There is but one immutable friend that ſticks cloſer than a brother a lover or a parent. He is the ſame yeſter<g ref="char:EOLhyphen"/>day, to day and forever. He will never leave you; he will never forſake you; he has engaged himſelf by his promiſe; and he is not a man that he ſhould repent.</p>
             <p>
-               <pb n="11" facs="tcp:047474_0010_1023B169E3E61040"/>And now ſuppoſe that a woman poſſeſſed with a belief of the higheſt excellence, is diſappointed in her proſpects of an agreeable union with one of our ſex: ſhe turns her thoughts to heaven. She con<g ref="char:EOLhyphen"/>templates truth and rectitude, wiſdom and good<g ref="char:EOLhyphen"/>neſs, power, mercy and faithfulneſs in their ſource. ſhe conſiders them as all—working together for her good; ſhe ſees them ſhining through the cloud of diſappointment; from this cloud ſhe hears, as it were, her Maker thus addreſſing her, "<hi>My daugh<g ref="char:EOLhyphen"/>ter, give me thy heart; throw thyſelf, my child, on my friendſhip.</hi> She is not diſobedient to the hea<g ref="char:EOLhyphen"/>venly call.—She proſtrates herſelf in the preſence of the Moſt High. To him ſhe devotes that heart which he formed; to him ſhe pours it out with free<g ref="char:EOLhyphen"/>dom.</p>
+               <pb n="11" facs="unknown:047474_0010_1023B169E3E61040"/>And now ſuppoſe that a woman poſſeſſed with a belief of the higheſt excellence, is diſappointed in her proſpects of an agreeable union with one of our ſex: ſhe turns her thoughts to heaven. She con<g ref="char:EOLhyphen"/>templates truth and rectitude, wiſdom and good<g ref="char:EOLhyphen"/>neſs, power, mercy and faithfulneſs in their ſource. ſhe conſiders them as all—working together for her good; ſhe ſees them ſhining through the cloud of diſappointment; from this cloud ſhe hears, as it were, her Maker thus addreſſing her, "<hi>My daugh<g ref="char:EOLhyphen"/>ter, give me thy heart; throw thyſelf, my child, on my friendſhip.</hi> She is not diſobedient to the hea<g ref="char:EOLhyphen"/>venly call.—She proſtrates herſelf in the preſence of the Moſt High. To him ſhe devotes that heart which he formed; to him ſhe pours it out with free<g ref="char:EOLhyphen"/>dom.</p>
          </div>
          <div type="prose_piece">
             <head>ON RETIREMENT.</head>
@@ -189,7 +190,7 @@ about it. The day will arrive, when a quarter of an hour will appear more deſir
                   <desc>•</desc>
                </gap> from the tumult of the throng, to conſider coolly their circumſtances and ſituations. Life can<g ref="char:EOLhyphen"/>not proceed fortuitouſly, without incurring momen<g ref="char:EOLhyphen"/>tary danger. Plans of conduct muſt be formed, precautions taken, errors retrieved, and probabil<g ref="char:EOLhyphen"/>ities of futurity conſidered: but all this requires thought, and thought retirement.</p>
             <p>It will conduce in a particular manner to the peace of all perſons who ſuperintend large families, if they habituate themſelves to diſregard thoſe calumnies, which will certainly be poured upon them; though they ſhould not merit ill treatment. Their hearts, will indeed be often wrung with grief, if they are
-<pb n="12" facs="tcp:047474_0011_1023B1A91B082698"/>
+<pb n="12" facs="unknown:047474_0011_1023B1A91B082698"/>
 ſenſible of every ill-natured whiſper, which makes its way, like the worm in the earth, and may at laſt, corrode the worthieſt boſom, if the breaſt-plate of reaſon is not previouſly applied.</p>
             <p>What have we to do, but to perform our duty, and leave the event to Providence. Religion is the only ſafe refuge of a heart laboring under heavy calamities. Religion makes the moſt truly ſerene and chearful countenances.</p>
             <p>THERE is no terreſtrial good that can yield that ſubſtantial happineſs which is ſuited to the natures and deſires of the human mind; and he who thinks to find it in any thing beneath the ſun, is ſurpriſing a phantom that will elude his chaſe; and if it ſeem to loiter for his approach, it will only be to con<g ref="char:EOLhyphen"/>vince him of his folly; to ſhew him a miſtake that he never ſaw, and of which thouſands never thought till their race terminated in that country, from whence none ever returned to own their error, or confeſs their ſhame.</p>
@@ -197,11 +198,11 @@ about it. The day will arrive, when a quarter of an hour will appear more deſir
          <div type="prose_piece">
             <head>POOR JOSEPH.</head>
             <p>A POOR half-witted man, named Joſeph, whoſe employ was to go on errands, and carry par<g ref="char:EOLhyphen"/>cels, paſſing through London ſtreets one day, heard pſalm-ſinging in a place of worſhip; he went into it, having a large parcel of yarn hanging over his ſhoulders: it was Dr. Calamy's meeting-houſe, St. Mary's, Aldermanbury. A very well dreſſed audi<g ref="char:EOLhyphen"/>ence
-<pb n="13" facs="tcp:047474_0012_1023B16C5D22E490"/>
+<pb n="13" facs="unknown:047474_0012_1023B16C5D22E490"/>
 ſurrounded the Doctor. He read the text in 1ſt Tim. I. 15. "This is a faithful ſaying, and worthy of all acceptation, that Chriſt Jeſus came into the world to ſave ſinners, of whom I am chief." From this he preached in the cleareſt and ſimpleſt manner, the ancient apoſtolic goſpel, the contents of this faithful ſaying, <hi>viz.</hi> that there is ſalvation for the vileſt ſinners, ſolely through the worthineſs of Jeſus Chriſt, the God who made all things. "Not many rich, not many noble, are called by this doc<g ref="char:EOLhyphen"/>trine (ſaith the apoſtle) but God hath choſen the weak things of this world to confound the things that are mighty." While the elegant aſſembly liſt<g ref="char:EOLhyphen"/>leſſly heard this doctrine, and if they were ſtruck with any thing at all, it was only with ſome brilliant expreſſion or well turned period that dropped from the Doctor. Joſeph, in rags, gazing with aſton<g ref="char:EOLhyphen"/>iſhment, never took his eyes from the preacher, but drank in with eagerneſs all he ſaid: and trudging homeward, was heard thus muttering to himſelf; "Jeſus Chriſt, the God who made all things, came into the world to ſave ſinners, like Joſeph; and this is true; and it is a "faithful ſaying." Not long after this, Joſeph was ſeized with a fever and was dangerouſly ill. As he toſſed upon his bed, his conſtant language was, "Joſeph is the chief of ſin<g ref="char:EOLhyphen"/>ners; but Jeſus Chriſt came into the world to ſave ſinners, and Joſeph loves him for this." His neigh<g ref="char:EOLhyphen"/>bors who came to ſee <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> wondered at hear<g ref="char:EOLhyphen"/>ing him always dwelling on this. Some of the religious ſort addreſſed him in the following man<g ref="char:EOLhyphen"/>ner:—But what ſay you of your own heart, Jo<g ref="char:EOLhyphen"/>ſeph? is there no token for good about it? no ſay<g ref="char:EOLhyphen"/>ing change there? Have you cloſed with Chriſt, by acting faith upon him? "Ah! no (ſays he) Joſeph can act nothing; Joſeph has nothing to ſay for him<g ref="char:EOLhyphen"/>ſelf,
-<pb n="14" facs="tcp:047474_0013_1023B1AC98FD81B8"/>
+<pb n="14" facs="unknown:047474_0013_1023B1AC98FD81B8"/>
 but juſt that he is chief of ſinners; yet ſeeing it is a faithful ſaying, that Jeſus, he who made all things, came into the world to ſave ſin<g ref="char:EOLhyphen"/>ners, why may not Joſeph, after all, be ſav<g ref="char:EOLhyphen"/>ed?" One man finding out where he heard this doctrine, on which he dwelt ſo uniformly, and with ſuch delight, went and aſked Doctor Calamy to come and viſit him. He came; but Joſeph was now very weak, and had not ſpoken for ſome time, and though told of the Doctor's arrival, he took no no<g ref="char:EOLhyphen"/>tice of him; but when the Doctor began to ſpeak to to him, as ſoon as he heard the ſound of his voice, he inſtantly ſprang up on his elbows, and ſeizing him by the hands, exclaimed as loud as he could, with his now feeble and trembling voice, "O Sir, you are the friend of the Lord Jeſus, who I heard ſpeak ſo well of him, and whom I love for what you ſaid of him. Joſeph is the chief of ſinners; but it is a faithful ſaying, that Jeſus Chriſt, the God who made all things, came into the world to ſave ſinners, and why not Joſeph? O pray to that Je<g ref="char:EOLhyphen"/>ſus for me, pray that he may ſave me: tell him that Joſeph thinks he loves him, for coming into the world to ſave ſuch ſinners as Joſeph." The Doctor prayed. When he concluded, Joſeph thanke him more kindly: he then put his hand under the pillow and took out an old rag, in which were tied up five guineas; and putting it into the Doctor's hand, (which he had kept all <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> time cloſe in his) he thus addreſſed him, "Joſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -212,7 +213,7 @@ but juſt that he is chief of ſinners; yet ſeeing it is a faithful ſaying, th
                </gap>n his folly, had laid up this to keep him in hi<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>d age: but Joſeph will ne<g ref="char:EOLhyphen"/>ver ſee old age; take it, and divide it amongſt the poor friends of the Lord Jeſus, and tell them that Joſeph gave it them for his ſake who came into the world to ſave ſinners, "of whom he is chief." So ſaying, he reclined his head. His exertions in talk<g ref="char:EOLhyphen"/>ing,
-<pb n="15" facs="tcp:047474_0014_1023B170843F43D8"/>
+<pb n="15" facs="unknown:047474_0014_1023B170843F43D8"/>
 had been too much for him, ſo that he inſtant<g ref="char:EOLhyphen"/>ly expired.</p>
             <p>Doctor Calamy left this ſcene, but not without ſhedding tears over Joſeph; and uſed to tell this little ſtory with much feeling; and as one of the moſt affecting occurrences he ever met with.</p>
          </div>
@@ -233,7 +234,7 @@ had been too much for him, ſo that he inſtant<g ref="char:EOLhyphen"/>ly expir
                </gap> like gaudy colors, which for a moment attract the ſight, but ſoon fa<g ref="char:EOLhyphen"/>tigue and oppreſs it; while the ſatisfactions of home reſemble the green robe of nature, on which the eye loves to reſt, and to which it always returns with a ſenſation of delight.</p>
          </div>
          <div type="prose_piece">
-            <pb n="16" facs="tcp:047474_0015_1023B1AF0E58F170"/>
+            <pb n="16" facs="unknown:047474_0015_1023B1AF0E58F170"/>
             <head>PALEMON AND THIRSIS.</head>
             <p>THE ſhades of the evening had begun to ſpread their dimming gloom over the plains, when Palemon, who, with his ſon Thirſis, had juſt fold<g ref="char:EOLhyphen"/>ed their flock, ſlowly returning to their peaceful dwelling. Palemon had long been an inhabitant of theſe uplands. His head was ſilvered over with age. Thirſis had juſt reached that aſcending period of life which verges on manhood. A lively filial reſpect was implanted in his breaſt towards the venerable author of his being. He looked up to him, not on<g ref="char:EOLhyphen"/>ly for ſupport, but for that advice, by which he was to guide his ſteps through the thorny roads of life. Every admonition that fell from his father's lips, he treaſured up in his mind, and noted every precept on the tablet of his heart.</p>
             <p>Slowly returned they towards their home; for time had now abated the vigor of the parent. "Be<g ref="char:EOLhyphen"/>hold, my ſon," cried the hoary-headed ſage, as they moved on, ſide by ſide, "Behold how every appearance marks the approach of winter! The grove is no longer rendered vocal by the ſweet choirſters that lately tuned, among its branches, their ſweeteſt lay. The ſcene around us yields not its wonted pleaſure. Its beauty fades apace. All nature ſeems to <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -256,7 +257,7 @@ had been too much for him, ſo that he inſtant<g ref="char:EOLhyphen"/>ly expir
                   <desc>〈…〉</desc>
                </gap> dejecting gloom! Ri<g ref="char:EOLhyphen"/>pening crops of grain then waved to the gentle breeze; a breeze fraught with refreſhing fragrance from yonder balmy meads aſide fruitful plains, now, alas! ſtripped of their flowery veſtment, and, with it, of their enlivening odours.</p>
             <p>
-               <pb n="17" facs="tcp:047474_0016_1023B1720A520F30"/>"Then, as we early ſought the fold, while yet Aurora lighted up the dawn, or when, at our re<g ref="char:EOLhyphen"/>turn, the evening reſumed her gentle reign, ſooth<g ref="char:EOLhyphen"/>ed by the nightingale's melodious notes, we taſted all the ſweets by bounteous nature ſpread. But now, which ever way we turn, the fading proſpect ſickens to our view. The wood-land's variegated dyes, drooping, proclaim in oft repeated ſighs, the ſummer's laſt farewell. No more, ye fields, the flowrets deck your glades; no more the trees their verdant foliage wave; no more the warblers chear the liſtening ſwain. Stern winter's chill approach has changed the ſcene.</p>
+               <pb n="17" facs="unknown:047474_0016_1023B1720A520F30"/>"Then, as we early ſought the fold, while yet Aurora lighted up the dawn, or when, at our re<g ref="char:EOLhyphen"/>turn, the evening reſumed her gentle reign, ſooth<g ref="char:EOLhyphen"/>ed by the nightingale's melodious notes, we taſted all the ſweets by bounteous nature ſpread. But now, which ever way we turn, the fading proſpect ſickens to our view. The wood-land's variegated dyes, drooping, proclaim in oft repeated ſighs, the ſummer's laſt farewell. No more, ye fields, the flowrets deck your glades; no more the trees their verdant foliage wave; no more the warblers chear the liſtening ſwain. Stern winter's chill approach has changed the ſcene.</p>
             <p>"But why, my ſon, do we lament theſe tranſi<g ref="char:EOLhyphen"/>ent pleaſures flown? Spring ſhall return and deck again the ravag'd plain; and nature loſe again her wintry form, though not perhaps for me.—My ſummer too is cloſed. But the bright cherub Hope, preſents a proſpect far beyond the ſkies, where hap<g ref="char:EOLhyphen"/>pier fields enjoy a cloudleſs day, and groves immor<g ref="char:EOLhyphen"/>tal wear unfading bloom.</p>
             <p>"Let, Thirſis, this clear ray of hope, beam ever in thy breaſt. Thou then wilt not regret the fad<g ref="char:EOLhyphen"/>ing beauties of the tranſient ſpring, nor heed the terrors of the northern blaſt. A few revolving ſuns may bring the change w<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
@@ -289,7 +290,7 @@ had been too much for him, ſo that he inſtant<g ref="char:EOLhyphen"/>ly expir
                </gap>efluouſly flowed the admonitions of the hoary ſage. Nor were they loſt, they were treaſured up in the mind of Thirſis.— When his venerable parent ſlept underneath the graſſy ſod, he became as Palemon had been, eſteem<g ref="char:EOLhyphen"/>ed by all the country round, for the ſimplicity of his manners, and the rectitude of his conduct.</p>
          </div>
          <div type="prose_piece">
-            <pb n="18" facs="tcp:047474_0017_1023B1B09552B5B0"/>
+            <pb n="18" facs="unknown:047474_0017_1023B1B09552B5B0"/>
             <head>SENSIBILITY.</head>
             <p>AND is it true, then, that the cold and unfeel<g ref="char:EOLhyphen"/>ing are the happieſt of mankind? Are the fine<g ref="char:EOLhyphen"/>ly feeeling ſoul—the ſuſceptible heart—the qui<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -322,7 +323,7 @@ had been too much for him, ſo that he inſtant<g ref="char:EOLhyphen"/>ly expir
                </gap> the frantic exceſſes of the ſelfiſh voluptuary.</p>
          </div>
          <div type="prose_piece">
-            <pb n="19" facs="tcp:047474_0018_1023B174C2E41108"/>
+            <pb n="19" facs="unknown:047474_0018_1023B174C2E41108"/>
             <head>COMMON PURSUITS.</head>
             <p>SO much have our <hi>common purſuits,</hi> which we plead as the means of ſupporting life, diverted men from the true ends for which they were ſent into the world, that the judicious and pious, in all ages, ſince the time of Solomon, have readily ſub<g ref="char:EOLhyphen"/>ſcribed to his opinion, that all of them are indeed "vanity and vexation of ſpirit." For we find that there are ſome who ſpend their whole time in gram<g ref="char:EOLhyphen"/>mar and rhetoric, or in learning to ſpeak well, without allowing themſelves any leiſure to ſtudy the more important concerns of living well.</p>
             <p>Others there are, who are ſo buſy in finding out the riddles of a logical ſphinx, that they examine all the trifles and impertinencies of reaſon, to find out what reaſon is, and in the ſearch thereof, of<g ref="char:EOLhyphen"/>tentimes loſe themſelves and their reaſon too.</p>
@@ -337,7 +338,7 @@ had been too much for him, ſo that he inſtant<g ref="char:EOLhyphen"/>ly expir
                   <desc>•••</desc>
                </gap> while may have no<g ref="char:EOLhyphen"/>thing that is harmonious in his own mind; nothing, which, by reaſon of its perturbation, does not run counter to all muſical meaſures.</p>
             <p>The aſtronomer, whilſt with fixed eyes he looks up to heaven, and attentively views the motion of the ſtars, very frequently ſtumbles into the next
-<pb n="20" facs="tcp:047474_0019_1023B1B21C2611E8"/>
+<pb n="20" facs="unknown:047474_0019_1023B1B21C2611E8"/>
 ditch; and while he is foretelling things to come, loſes thoſe that are preſent; for though with fixed eyes he looks up to heaven, his mind is too much de<g ref="char:EOLhyphen"/>filed with the mire of this world, to think of a bet<g ref="char:EOLhyphen"/>ter.</p>
             <p>The philoſopher diſputes gravely and accurately of the nature of things, and yet, perhaps is no wiſ<g ref="char:EOLhyphen"/>er than a real child, as to the nature of himſelf, and the things of heaven.</p>
             <p>The phyſician takes care of the health of others, but as to the knowledge of the diſeaſes of his own mind, may be as blind as a beetle; he diligently watches the variations of his patient's pulſe, but how to cure the evil diſpoſitions, and wrong tem<g ref="char:EOLhyphen"/>pers, in himſelf, he knows nor cares but little a<g ref="char:EOLhyphen"/>bout them.</p>
@@ -352,7 +353,7 @@ ditch; and while he is foretelling things to come, loſes thoſe that are preſe
                </gap> too little concern.</p>
             <p>The merchant is very ſolicitous of gain from eve<g ref="char:EOLhyphen"/>ry port to which he can extend his trade, or in which he can obtain credit—yet ſeldom troubles his head in eſtabliſhing a correſpondence with that hap<g ref="char:EOLhyphen"/>py country, which offers the richeſt merchandize —that neither moth can corrupt, nor thieves have power to ſteal.</p>
             <p>
-               <pb n="21" facs="tcp:047474_0020_1023B1774AE5A088"/>The farmer, though daily exerciſed with much toil and fatigue, in breaking up and improving the moſt ſtubborn and rugged ſoils, with a view to a beneficial crop, yet how does he neglect, year after year, to break up and improve the barren ſoil of his own heart, which, without equal care and cul<g ref="char:EOLhyphen"/>tivation, will never produce that crop of good works, which makes truly rich, and adds no ſorrow.</p>
+               <pb n="21" facs="unknown:047474_0020_1023B1774AE5A088"/>The farmer, though daily exerciſed with much toil and fatigue, in breaking up and improving the moſt ſtubborn and rugged ſoils, with a view to a beneficial crop, yet how does he neglect, year after year, to break up and improve the barren ſoil of his own heart, which, without equal care and cul<g ref="char:EOLhyphen"/>tivation, will never produce that crop of good works, which makes truly rich, and adds no ſorrow.</p>
             <p>Arts and ſciences do indeed weary the minds of men with continual labor, but yield them no true felicity.</p>
             <p>It is religion, only, can regulate the heart—it cauſes it to melt in ſympathy with diſtreſs, or to glow with pleaſure at the happineſs of another— it is that alone can harmonize the mind, "Attuning all its paſſions into peace."</p>
             <p>The aſtronomer, if enlightened by it, muſt con<g ref="char:EOLhyphen"/>template, with wonder and admiration, thoſe lumi<g ref="char:EOLhyphen"/>naries which his eye ſo often gazes on with pleaſure. The philoſopher too, when the won<g ref="char:EOLhyphen"/>ders of nature are opened to his view, with what doration and gratitude muſt he look up to that great ſource from whence they flow! And in all profeſ<g ref="char:EOLhyphen"/>ſions, how <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -372,7 +373,7 @@ ditch; and while he is foretelling things to come, loſes thoſe that are preſe
                </gap>.</p>
          </div>
          <div type="prose_piece">
-            <pb n="22" facs="tcp:047474_0021_1023B1B56D4D4E28"/>
+            <pb n="22" facs="unknown:047474_0021_1023B1B56D4D4E28"/>
             <head>CANUTE.</head>
             <p>THERE is a remarkable paſſage in the life of Canute, king of England, containing inſtruc<g ref="char:EOLhyphen"/>tions both to prince and people. His courtiers, (ever too prone to magnify and flatter thoſe whom they think to pleaſe by ſo doing) would frequently extol his power and wealth, and pretend ſome<g ref="char:EOLhyphen"/>times almoſt to adore his perſon. Canute was a man of too good underſtanding not to ſee the folly of ſuch flattery, and of the perſons from whom it came; but for their effectual conviction, and to ſhew the ſmall power of kings, he cauſed his roy<g ref="char:EOLhyphen"/>al ſeat to be placed on the ſea-ſhore, while the tide was comming in; then, in the midſt of his flatter<g ref="char:EOLhyphen"/>ing nobles and great lords, whom he cauſed to aſ<g ref="char:EOLhyphen"/>ſemble together for that purpoſe; arrayed in robes of gold with his crown on his head, and all the ſtate and royalty he could command, he thus ad<g ref="char:EOLhyphen"/>dreſſed the ſea. "Thou ſea, belongeſt to me, and the land whereon I ſit is mine, nor hath any one unpuniſhed reſiſted my commands; <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -383,7 +384,7 @@ ditch; and while he is foretelling things to come, loſes thoſe that are preſe
                   <desc>••</desc>
                </gap> and, neither preſume to wet the feet of thy ſovereign lord." But the ſea came rolling on, and, without rever<g ref="char:EOLhyphen"/>ence, wet and daſhed the king. Then riſing from his ſeat, and looking round him, he deſired all preſent to behold the weakneſs of human power, and that none truly deſerved the name of king, but him whoſe eternal laws both heaven, earth and ſeas obey. From that time he never wore a crown, eſteeming earthly royalty nothing elſe than poor contemptible vanity.</p>
             <p>
-               <pb n="23" facs="tcp:047474_0022_1023B179B3C1ADF8"/>NOURISH in your boſoms humility and good-nature; theſe will teach you to make the beſt of your lot, whatever it be, and give a reliſh to eve<g ref="char:EOLhyphen"/>ry enjoyment. All is ſerene where they reſide. Humility by arrogating nothing to herſelf, remains unhurt at the ſupercilious ſcorn of ignorance or pride; and good nature, by caſting a veil over the foibles of others, preſents to our view the beſt ſide of this motley ſcene.</p>
+               <pb n="23" facs="unknown:047474_0022_1023B179B3C1ADF8"/>NOURISH in your boſoms humility and good-nature; theſe will teach you to make the beſt of your lot, whatever it be, and give a reliſh to eve<g ref="char:EOLhyphen"/>ry enjoyment. All is ſerene where they reſide. Humility by arrogating nothing to herſelf, remains unhurt at the ſupercilious ſcorn of ignorance or pride; and good nature, by caſting a veil over the foibles of others, preſents to our view the beſt ſide of this motley ſcene.</p>
          </div>
          <div type="prose_piece">
             <p>IF you have really made any advancement in mental improvement, it will invigorate the pow<g ref="char:EOLhyphen"/>ers of the ſoul, and inſpire her with that magnanim<g ref="char:EOLhyphen"/>ity which is certainly neceſſary to the happineſs of a being, who is every moment expoſed to ſorrow and diſappointment. Value not yourſelves on any refinements that are ſhort of this effect.</p>
@@ -393,7 +394,7 @@ ditch; and while he is foretelling things to come, loſes thoſe that are preſe
          </div>
          <div type="prose_piece">
             <p>NOTHING ſo highly elevates and adorns the human character, as a ſteady rational piety; nor is any thing capable of yielding ſo pure and exalt<g ref="char:EOLhyphen"/>ed
-<pb n="24" facs="tcp:047474_0023_1023B1B7D3FD5328"/>
+<pb n="24" facs="unknown:047474_0023_1023B1B7D3FD5328"/>
 a happineſs to the ſoul, as a habit of devotion. No one who has experienced the viciſſitude of ſub<g ref="char:EOLhyphen"/>lunary things, but muſt highly value the privilege of poſſeſſing a friend, ever ready to hear the com<g ref="char:EOLhyphen"/>plaints of affliction, and the power to relieve them.</p>
          </div>
          <div type="prose_piece">
@@ -402,7 +403,7 @@ a happineſs to the ſoul, as a habit of devotion. No one who has experienced th
          <div type="prose_piece">
             <p>NOR is it from the relative duties alone we can derive happineſs: the amuſing, intereſting Book of Nature is open to all who can read it: here you meet with eternal variety, order and beau<g ref="char:EOLhyphen"/>ty; a thouſand charms await the mind which poſ<g ref="char:EOLhyphen"/>ſeſſes a taſte for ſimple pleaſures; to ſuch the whole creation is a boundleſs ſource of rational amuſe<g ref="char:EOLhyphen"/>ment. Happy, ineffably happy, they who can be pleaſed with artleſs nature, and contemplate with delight, the noble imagery with which ſhe abounds.</p>
             <p>
-               <pb n="25" facs="tcp:047474_0024_1023B17C183718C0"/>THAT kindneſs which flows from the heart, is like a clear ſtream, that pours its full and rapid current chearfully along, for ever unobſtructed in its courſe; while thoſe acts of benificence, which are performed with reluctance, reſemble ſhallow waters ſupplied by a muddy fountain, retarded in their noiſy progreſs by every pebble, dried by heat, and frozen by cold.</p>
+               <pb n="25" facs="unknown:047474_0024_1023B17C183718C0"/>THAT kindneſs which flows from the heart, is like a clear ſtream, that pours its full and rapid current chearfully along, for ever unobſtructed in its courſe; while thoſe acts of benificence, which are performed with reluctance, reſemble ſhallow waters ſupplied by a muddy fountain, retarded in their noiſy progreſs by every pebble, dried by heat, and frozen by cold.</p>
          </div>
          <div type="prose_piece">
             <p>IN the country, the mind borrows virtue from the ſcene. When we tread the lofty mountain, when the ample lake ſpreads its broad expanſe of waters to our view, when we liſten to the fall of the torrent, the awed and aſtoniſhed mind is raiſed above the temptations of guilt; and when we wan<g ref="char:EOLhyphen"/>der amid the ſofter ſcenes of Nature, the charms of the landſcape, the ſong of the birds, the mild<g ref="char:EOLhyphen"/>neſs of the breeze, and the murmurs of the ſtream, ſoothe the paſſions into peace, excite the moſt gen<g ref="char:EOLhyphen"/>tle emotions, and have power to cure all ſadneſs but diſpair!—"Can man forbear to ſmile with Nature? Can the ſtormy paſſions in his boſom roll, while every gale is peace, and every grove is me<g ref="char:EOLhyphen"/>lody?</p>
@@ -411,7 +412,7 @@ a happineſs to the ſoul, as a habit of devotion. No one who has experienced th
             <p>THE occaſional acts of benificence which pro<g ref="char:EOLhyphen"/>ceed either from oſtentation or fear, reſemble thoſe ſcanty ſpots of verdure to which a ſudden ſhower will ſometimes give birth in a flinty and ſterile ſoil; while pure genuine philantrophy flows like thoſe unſeen dews which are only marked in their benign effects ſpreading new charms over creation.</p>
          </div>
          <div type="prose_piece">
-            <pb n="26" facs="tcp:047474_0025_1023B1B95B3C8CA8"/>
+            <pb n="26" facs="unknown:047474_0025_1023B1B95B3C8CA8"/>
             <p>FONDNESS for children, even in one not a parent, is an affection very natural to a tender heart; for what is more intereſting than the inno<g ref="char:EOLhyphen"/>cence, the helpleſsneſs, the endearing ſimplicity of childhood?</p>
          </div>
          <div type="prose_piece">
@@ -423,7 +424,7 @@ a happineſs to the ſoul, as a habit of devotion. No one who has experienced th
          <div type="prose_piece">
             <p>THE middle ſtation of life appears to be that temperate region, in which the mind, neither ener<g ref="char:EOLhyphen"/>vated by too full a ray of proſperity, nor chilled and debaſed by the freezing blaſt of penury, is in the ſitution moſt favourable for every great and gene<g ref="char:EOLhyphen"/>rous exertion.</p>
             <p>
-               <pb n="27" facs="tcp:047474_0026_1023B17DC49F49E0"/>In a mind where the principles of religion and integrity are firmly eſtabliſhed, ſenſibility is not merely the ally of weakneſs, or the ſlave of guilt, but ſerves to give a ſtronger impulſe to virtue.</p>
+               <pb n="27" facs="unknown:047474_0026_1023B17DC49F49E0"/>In a mind where the principles of religion and integrity are firmly eſtabliſhed, ſenſibility is not merely the ally of weakneſs, or the ſlave of guilt, but ſerves to give a ſtronger impulſe to virtue.</p>
          </div>
          <div type="prose_piece">
             <p>VIRTUE is the only true ſupport of pleaſure; which when disjointed from it, is like a plant when its fibers are cut, which may ſtill look gay and lovely for a while, but ſoon decays and periſhes.</p>
@@ -442,7 +443,7 @@ a happineſs to the ſoul, as a habit of devotion. No one who has experienced th
          </div>
          <div type="prose_piece">
             <p>THE effuſions of gaiety which are ſo exhilarating to a mind at eaſe, come to an aching breaſt as a ray
-<pb n="28" facs="tcp:047474_0027_1023B1BBD3A95EF8"/>
+<pb n="28" facs="unknown:047474_0027_1023B1BBD3A95EF8"/>
 of the ſun falls upon ice, too deep to be penetrated by its influence.</p>
          </div>
          <div type="prose_piece">
@@ -460,7 +461,7 @@ of the ſun falls upon ice, too deep to be penetrated by its influence.</p>
             <p>TIME, when yet before us, ſeems to advance with ſlow and tardy ſteps, no ſooner is it paſt, than we diſcern its wings.</p>
          </div>
          <div type="prose_piece">
-            <pb n="29" facs="tcp:047474_0028_1023B181FA47E430"/>
+            <pb n="29" facs="unknown:047474_0028_1023B181FA47E430"/>
             <p>FORTITUDE without wiſdom is raſhneſs: Wiſdom without juſtice is craft; and juſtice with<g ref="char:EOLhyphen"/>out mercy is cruelty.</p>
          </div>
          <div type="prose_piece">
@@ -474,7 +475,7 @@ of the ſun falls upon ice, too deep to be penetrated by its influence.</p>
          </div>
          <div type="prose_piece">
             <p>THAT man is truly virtuous who is neither proud in good fortune, nor abject in bad; who
-<pb facs="tcp:047474_0029_1023B1C0256D5450"/>
+<pb facs="unknown:047474_0029_1023B1C0256D5450"/>
 deſires nothing but heaven, and fears nothing but the loſs of it; who is ſevere to himſelf, and eaſy to his neighbours; who ſpeaks well of all but himſelf, and never pardons his own defects, nor cenſures thoſe of his brethren. In a word, to do good, and fly from evil, is the ſum of our duty— this is virtue in ſhort hand; Perfection in Epitome; and Heaven in Reverſion.</p>
          </div>
          <div type="prose_piece">
@@ -483,7 +484,7 @@ deſires nothing but heaven, and fears nothing but the loſs of it; who is ſeve
             <p>A POOR widow came ſeveral times into the an<g ref="char:EOLhyphen"/>tichamber of the court, and though frequent<g ref="char:EOLhyphen"/>ly ordered to retire, conſtantly returned the next day, ſaying, ſhe muſt ſpeak to the King. At length it happened, that ſeeing his majeſty paſs by, ſhe immediately advanced towards him, preſented him with a caſket, and ſpoke to him as follows: "Sire, behold what I have diſcovered among the rubbiſh of ſome of the buildings ruined by the great earth<g ref="char:EOLhyphen"/>quake in 17 <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> am a poor widow, and have ſix children. That caſket would relieve me from my preſent diſtreſſes, but I prefer my honour with a good conſcience, to all the treaſures in the world. I deliver this to your majeſty as the moſt proper perſon, to reſtore it to its lawful poſſeſſor, and to reward me for the diſcovery." The king imme<g ref="char:EOLhyphen"/>diately ordered the caſket to be opened, and was ſtruck with the beauty of the jewels which it con<g ref="char:EOLhyphen"/>tained; after which ſpeaking highly in praiſe of the widow's honeſty and diſintereſtedneſs, he aſſured
-<pb n="31" facs="tcp:047474_0030_1023B18468A32ED8"/>
+<pb n="31" facs="unknown:047474_0030_1023B18468A32ED8"/>
 her of his protection, and immediately ordered he twenty thouſand Paiſtres (3<abbr>
                   <hi>ſ.</hi>
                </abbr> 7<abbr>
@@ -498,12 +499,12 @@ her of his protection, and immediately ordered he twenty thouſand Paiſtres (3<
             <p>I FIND myſelf exiſting upon a little ſpot, ſur<g ref="char:EOLhyphen"/>rounded every way by an immenſe unknown expanſion.—Where am I? What ſort of place do I inhabit? Is it exactly accommodated in every in<g ref="char:EOLhyphen"/>ſtance to my <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>nvenience? Is there no exceſs of cold, none of heat to offend me? Am I never an<g ref="char:EOLhyphen"/>noyed by animals, either of my own kind, or a dif<g ref="char:EOLhyphen"/>ferent? Is every thing ſubſervient to me, as tho' I had ordered every thing myſelf?—No—nothing like it —the fartheſt from it poſſible.—The world appears then, not originally made for the private conveni<g ref="char:EOLhyphen"/>ence of me alone?—It does not.—But is it not poſ<g ref="char:EOLhyphen"/>ſible
-<pb n="32" facs="tcp:047474_0031_1023B1C28EE9F288"/>
+<pb n="32" facs="unknown:047474_0031_1023B1C28EE9F288"/>
 ſo to accommodate it, by my own particular induſtry? If to accommodate man and beaſt, hea<g ref="char:EOLhyphen"/>ven and earth, if this be beyond me, it is not poſſi<g ref="char:EOLhyphen"/>ble.—What conſequence then follows? or can there be any other than this—If I ſeek an intereſt of my own detatched from that of others, I ſeek an intereſt which is chimerical, and can never have exiſtence.</p>
             <p>How then muſt I determine? have I no intereſt at all?—If I have not, I am a fool for ſtaying here: it is a ſmoky houſe, and the ſooner out of it the better.—But why no intereſt? Can I be contented with none but one ſeparate and detached! Is a ſo<g ref="char:EOLhyphen"/>cial intereſt, joined with others, ſuch an abſurdity as not to be admitted?—The bee, the bever, and the tribes of herding animals, are enow to convince me that the thing is at leaſt ſomewhere poſſible. How, then, am I aſſured that it is not equally true of man?—Admit it; and what follows? If ſo, then honour and juſtice are my intereſt; then the whole train of moral virtues are my intereſt; without ſome portion of which, not even thieves can maintain ſociety.</p>
             <p>But, farther ſtill—I ſtop not here—I purſue this ſocial intereſt, as far as I can trace my ſeveral rela<g ref="char:EOLhyphen"/>tions. I paſs from my own ſtock, my own neigh<g ref="char:EOLhyphen"/>bourhood, my own nation, to the whole race of mankind, as diſperſed throughout the earth.—Am I not related to them all, by the mutual aids of com<g ref="char:EOLhyphen"/>merce, by the general intercourſe of arts and let<g ref="char:EOLhyphen"/>ters, by that common, nature of which we all par<g ref="char:EOLhyphen"/>ticipate?</p>
             <p>Again—I muſt have food and cloathing.—With<g ref="char:EOLhyphen"/>out a proper genial warmth, I inſtantly periſh.— Am I not related, in this view, to the very earth
-<pb n="33" facs="tcp:047474_0032_1023B185EF950F90"/>
+<pb n="33" facs="unknown:047474_0032_1023B185EF950F90"/>
 itſelf? to the diſtant ſun, from whoſe beams I de<g ref="char:EOLhyphen"/>rive vigour? to that ſtupendous courſe and order of the infinite hoſt of heaven, by which the times and ſeaſons ever uniformly paſs on? Were this order once confounded, I could not probably ſurvive a moment; ſo abſolutely do I depend on this com<g ref="char:EOLhyphen"/>mon general welfare.—What, then, have I to do, but to enlarge virtue into piety! Not only honour and juſtice, and what I owe to man, is my intereſt; but gratitude alſo acquieſcence, reſignation, adora<g ref="char:EOLhyphen"/>tion, and all I owe to this great polity, and its great<g ref="char:EOLunhyphen"/>er Governor our common parent.</p>
          </div>
          <div type="prose_piece">
@@ -511,7 +512,7 @@ itſelf? to the diſtant ſun, from whoſe beams I de<g ref="char:EOLhyphen"/>ri
             <p>A CERTAIN Hermit had ſcooped his cave near the ſummit of a lofty mountain, from whence he had an opportunity of ſurveying a large extent both of ſea and land. He ſat one evening contem<g ref="char:EOLhyphen"/>plating with pleaſure on the various objects that lay diffuſed before him. The woods were dreſſed in the brighteſt verdure; the thickets adorned with the gayeſt bloſſoms. The birds caroled beneath the branches; the lambs frolicked around the meads; the peaſant wiſtled beſide his team; and the ſhips driven by gentle gales, were returning ſafely into their proper harbours. In ſhort the arrival of ſpring had doubly enlivened the whole ſcene be<g ref="char:EOLhyphen"/>fore his eye; and every object yielded a diſplay ei<g ref="char:EOLhyphen"/>ther of <hi>beauty</hi> or of <hi>happineſs.</hi>
             </p>
             <p>On a ſudden aroſe a violent ſtorm. The winds muſtered all their fury, and whole foreſts of oak lay
-<pb n="34" facs="tcp:047474_0033_1023B1C41B1C3B38"/>
+<pb n="34" facs="unknown:047474_0033_1023B1C41B1C3B38"/>
 ſcattered on the ground. Darkneſs inſtantly ſuc<g ref="char:EOLhyphen"/>ceeded; hail-ſtones and rain were poured forth in cataracts, and lightning and thunder added horror to the gloom.</p>
             <p>And now the ſea, piled up in mountains, bore aloft the largeſt veſſels, while the horrid uproar of its waves drowned the ſhrieks of the wretched mariners. When the whole tempeſt had exhauſted its fury, it was inſtantly followed by the ſhock of an earthquake.</p>
             <p>The poor inhabitants of a neighbouring village floked in crowds to our Hermit's cave; religiouſly hoping, that his well-known ſanctity would protect them in their diſtreſs. They were however, not a little ſurpriſed at the profound tranquility that ap<g ref="char:EOLhyphen"/>peared in his countenance. "My friends," ſaid he, "be not diſmayed. Terrible to <hi>me</hi> as well as to <hi>you,</hi> would have been the war of elements we have juſt beheld; but that I have meditated with ſo much attention on the various works of Provi<g ref="char:EOLhyphen"/>dence, as to be perſuaded that his <hi>goodneſs</hi> is equal to his <hi>power.</hi>
@@ -524,7 +525,7 @@ itſelf? to the diſtant ſun, from whoſe beams I de<g ref="char:EOLhyphen"/>ri
          <div type="prose_piece">
             <head>THE TWO SPRINGS:—A FABLE.</head>
             <p>TWO ſprings that iſſued from the ſame moun<g ref="char:EOLhyphen"/>tain, began their courſe together: one of
-<pb n="35" facs="tcp:047474_0034_1023B18860CA8FD0"/>
+<pb n="35" facs="unknown:047474_0034_1023B18860CA8FD0"/>
 them took her way in a ſilent gentle ſtream, while the other ruſhed along with a ſounding and rapid current. Siſter, ſaid the latter, at the rate you move, you will probably be dried up before you advance much further: whereas, for myſelf, I will venture a wager, that within two or three hundred furlongs I ſhall become navigable, and after diſ<g ref="char:EOLhyphen"/>tributing commerce and wealth wherever I flow, I ſhall majeſtically proceed to pay my tribute to the ocean: ſo farewell dear ſiſter, and patiently ſubmit to your fate. Her ſiſter made no reply; but calm<g ref="char:EOLhyphen"/>ly deſcended to the meadows below, increaſed her ſtream by numberleſs little rills, which ſhe collect<g ref="char:EOLhyphen"/>ed in her progreſs, till at length ſhe was enabled to raiſe into a conſiderable river: whilſt the proud ſtream that had the vanity to depend ſolely upon her own ſufficiency, continued a ſhallow brook, and was glad at laſt to be helped forward, by throwing herſelf into the arms of her diſpiſed ſiſter.</p>
             <div type="moral">
                <head>MORAL.</head>
@@ -534,7 +535,7 @@ them took her way in a ſilent gentle ſtream, while the other ruſhed along wit
          <div type="prose_piece">
             <head>GENIUS, VIRTUE, AND REPUTATION:—A FABLE.</head>
             <p>GENIUS, Virtue, and Reputation, three inti<g ref="char:EOLhyphen"/>mate friends, agreed to travel over the iſland of Great Britain, to ſee whatever might be worthy of obſervation. But as ſome misfortune, ſaid they, may happen to ſeparate us, let us conſider before
-<pb n="36" facs="tcp:047474_0035_1023B1C689C501D0"/>
+<pb n="36" facs="unknown:047474_0035_1023B1C689C501D0"/>
 we ſet out, by what means we may find each other again. Should it be my ill fate, ſaid Genius, to be ſevered from you, my aſſociates, which heaven for<g ref="char:EOLhyphen"/>bid! you may find me kneeling in devotion before the tomb of Shakeſpeare; or rapt in ſome grove where Milton talked with angels; or muſing in grotto where Pope caught inſpiration. Virtue, with a ſigh, acknowledged that her friends were not very numerous: but were I to loſe you, ſhe cried, with whom I am at preſent ſo happily united, I ſhould chooſe to take ſanctuary in the temples of religion, in the palaces of royalty, or in the ſpacious domes of miniſters of ſtate: but as it may be my ill fortune there to be denied admittance, enquire for ſome cottage where contentment has a bower, and there you will certainly find me. Ah! my dear companions, ſaid Reputation very earneſtly, you, I perceive when miſſing, may poſſibly be recovered; but take care, I entreat you, always to keep ſight of me, for if I am once loſt, I am never to be re<g ref="char:EOLhyphen"/>trieved.</p>
             <div type="moral">
                <head>MORAL.</head>
@@ -542,7 +543,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </div>
          </div>
          <div type="poem">
-            <pb facs="tcp:047474_0036_1023B189FB461668"/>
+            <pb facs="unknown:047474_0036_1023B189FB461668"/>
             <head>
                <hi>AN ADDRESS</hi> TO THE <hi>DEITY.</hi>
             </head>
@@ -575,7 +576,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And one vaſt object fills my aching ſight.</l>
             </lg>
             <lg>
-               <pb n="38" facs="tcp:047474_0037_1023B1C9CDF8A130"/>
+               <pb n="38" facs="unknown:047474_0037_1023B1C9CDF8A130"/>
                <l>But ſoon, alas! this holy calm is broke,</l>
                <l>My ſoul ſubmits to wear the wonted yoke;</l>
                <l>With ſhackled pinions ſtrives to ſoar in vain</l>
@@ -615,7 +616,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And with ſtrong confidence lay hold on thee:</l>
                <l>With equal eye my various lot recieve,</l>
                <l>
-                  <pb n="39" facs="tcp:047474_0038_1023B18F7817ECA0"/>Refign'd to die, or reſolute to live:</l>
+                  <pb n="39" facs="unknown:047474_0038_1023B18F7817ECA0"/>Refign'd to die, or reſolute to live:</l>
                <l>Prepar'd to kiſs the ſceptre or the rod,</l>
                <l>While God is ſeen in all, and all in God.</l>
             </lg>
@@ -649,7 +650,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
          </div>
          <div type="poem">
-            <pb n="40" facs="tcp:047474_0039_1023B1CC478EF3A8"/>
+            <pb n="40" facs="unknown:047474_0039_1023B1CC478EF3A8"/>
             <head>THE HERMIT.</head>
             <lg>
                <l>FAR in a wild, unknown to public view,</l>
@@ -686,7 +687,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Sedate to think, and watching each event.</l>
             </lg>
             <lg>
-               <pb n="41" facs="tcp:047474_0040_1023B19101B20948"/>
+               <pb n="41" facs="unknown:047474_0040_1023B19101B20948"/>
                <l>The morn was waſted in the pathleſs graſs,</l>
                <l>And long and loneſome was the wild to paſs:</l>
                <l>But when the ſouthern ſun had warm'd the day,</l>
@@ -764,7 +765,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                      <desc>〈◊〉</desc>
                   </gap> and at the dawn or day</l>
                <l>
-                  <pb n="42" facs="tcp:047474_0041_1023B1CDCF14AC08"/>Along the wide canals the zephyrs play;</l>
+                  <pb n="42" facs="unknown:047474_0041_1023B1CDCF14AC08"/>Along the wide canals the zephyrs play;</l>
                <l>Freſh o'er the gay parterres the breezes creep,</l>
                <l>And ſhake the neighbouring wood to baniſh ſleep.</l>
                <l>Up riſe the gueſts, obedient to the call,</l>
@@ -804,7 +805,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>As near the miſer's heavy doors they drew,</l>
                <l>Fierce riſing guſts with ſudden fury blew;</l>
                <l>
-                  <pb facs="tcp:047474_0042_1023B192868EE0F8"/>The nimble lightning, mix'd with ſhow'rs be gan,</l>
+                  <pb facs="unknown:047474_0042_1023B192868EE0F8"/>The nimble lightning, mix'd with ſhow'rs be gan,</l>
                <l>And o'er their heads loud rolling thunders ran.</l>
                <l>Here long they knock: but knock or call in vain,</l>
                <l>Driv'n by the wind and batter'd by the rain.</l>
@@ -843,7 +844,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>While hence they walk, the pilgrim's boſom wrought</l>
                <l>With all the travel of uncertain thought;</l>
                <l>
-                  <pb n="44" facs="tcp:047474_0043_1023B1D12D139CA0"/>His partner's acts without their cauſe appear:</l>
+                  <pb n="44" facs="unknown:047474_0043_1023B1D12D139CA0"/>His partner's acts without their cauſe appear:</l>
                <l>'Twas there a vice, and ſeem'd a madneſs here:</l>
                <l>Deteſting that, and pitying this, he goes,</l>
                <l>Loſt and confounded with the various ſhows.</l>
@@ -882,7 +883,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And breathe blue fire could more aſſault his heart.</l>
             </lg>
             <lg>
-               <pb n="31" facs="tcp:047474_0044_1023B1960A612290"/>
+               <pb n="31" facs="unknown:047474_0044_1023B1960A612290"/>
                <l>Confus'd, and ſtruck with ſilence at the deed,</l>
                <l>He flies, but trembling, fails to fly with ſpeed.</l>
                <l>His ſteps the youth purſues; the country lay</l>
@@ -921,7 +922,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>In ſweet memorial riſe before the throne:</l>
                <l>Theſe charms ſucceſs in our bright region find,</l>
                <l>
-                  <pb n="46" facs="tcp:047474_0045_1023B1D397E2A790"/>And force an angel down to calm thy mind:</l>
+                  <pb n="46" facs="unknown:047474_0045_1023B1D397E2A790"/>And force an angel down to calm thy mind:</l>
                <l>For this commiſſion'd, I forſook the ſky;</l>
                <l>Nay ceaſe to kneel! thy fellow-ſervant I.</l>
             </lg>
@@ -962,7 +963,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And feels compaſſion touch his grateful ſoul.</l>
                <l>Thus artiſts melt the ſullen ore of lead,</l>
                <l>
-                  <pb n="74" facs="tcp:047474_0046_1023B198828EA9C0"/>With heaping coals of fire upon its head;</l>
+                  <pb n="74" facs="unknown:047474_0046_1023B198828EA9C0"/>With heaping coals of fire upon its head;</l>
                <l>In the kind warmth the metal learns to glow,</l>
                <l>And, looſe from droſs the ſilver runs below.</l>
             </lg>
@@ -1011,7 +1012,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>LIKE as as a damaſk roſe you ſee,</l>
                <l>Or like the bloſſom of the tree—</l>
                <l>
-                  <pb n="48" facs="tcp:047474_0047_1023B1D51BFBC5C8"/>Or like the dainty flower in May,</l>
+                  <pb n="48" facs="unknown:047474_0047_1023B1D51BFBC5C8"/>Or like the dainty flower in May,</l>
                <l>Or like the morning to the day—</l>
                <l>Or like the ſun, or like the ſhade,</l>
                <l>Or like the gourd which Jonas had;</l>
@@ -1051,7 +1052,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>The water glides; man's life is done.</l>
             </lg>
             <lg>
-               <pb n="49" facs="tcp:047474_0048_1023B19A0990DA40"/>
+               <pb n="49" facs="unknown:047474_0048_1023B19A0990DA40"/>
                <l>A few more rolling years at moſt,</l>
                <l>Will land me on fair Canaan's coaſt;</l>
                <l>Where I ſhall ſing my ſong of grace</l>
@@ -1091,7 +1092,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>That man was made to mourn.</l>
             </lg>
             <lg>
-               <pb n="50" facs="tcp:047474_0049_1023B1D7AB57E2E0"/>
+               <pb n="50" facs="unknown:047474_0049_1023B1D7AB57E2E0"/>
                <l>O man, while in thy early years,</l>
                <l>How prodigal of time!</l>
                <l>Miſpending all thy precious hours,</l>
@@ -1132,7 +1133,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Makes countleſs thouſands mourn.</l>
             </lg>
             <lg>
-               <pb n="51" facs="tcp:047474_0050_1023B21728C827B0"/>
+               <pb n="51" facs="unknown:047474_0050_1023B21728C827B0"/>
                <l>See yonder poor o'er labour'd Wight,</l>
                <l>So abject, mean and vile,</l>
                <l>Who begs a brother of the earth</l>
@@ -1174,7 +1175,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
          </div>
          <div type="poem">
-            <pb n="52" facs="tcp:047474_0051_1023B1DB8B2F3478"/>
+            <pb n="52" facs="unknown:047474_0051_1023B1DB8B2F3478"/>
             <head>On Death.</head>
             <lg>
                <l>WHEN men my ſythe and dart ſupply</l>
@@ -1220,7 +1221,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <lg>
                <l>Of intellectual light.</l>
                <l>
-                  <pb n="53" facs="tcp:047474_0052_1023B21994A9DB20"/>O ſend her ſure her ſteady ray,</l>
+                  <pb n="53" facs="unknown:047474_0052_1023B21994A9DB20"/>O ſend her ſure her ſteady ray,</l>
                <l>To regulate my doubtful way,</l>
             </lg>
             <lg>
@@ -1265,7 +1266,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And aſk the devious way.</l>
             </lg>
             <lg>
-               <pb n="54" facs="tcp:047474_0053_1023B1DD12E38A70"/>
+               <pb n="54" facs="unknown:047474_0053_1023B1DD12E38A70"/>
                <l>O! ſcreen me from ſurrounding ills,</l>
                <l>Let dangers ne'er annoy,</l>
                <l>The arrow that in darkneſs flies</l>
@@ -1309,7 +1310,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
          </div>
          <div type="poem">
-            <pb n="55" facs="tcp:047474_0054_1023B21B1A673760"/>
+            <pb n="55" facs="unknown:047474_0054_1023B21B1A673760"/>
             <head>Thoughts on the Sea ſhore.</head>
             <lg>
                <l>IN ev'ry object here I ſee</l>
@@ -1346,7 +1347,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>Of baleful grief, or eat the bitter bread</l>
             <l>Of miſery. Sore pierc'd by wintry winds,</l>
             <l>
-               <pb n="56" facs="tcp:047474_0055_1023B1DFBAC7C678"/>How many ſhrink into the ſordid hut</l>
+               <pb n="56" facs="unknown:047474_0055_1023B1DFBAC7C678"/>How many ſhrink into the ſordid hut</l>
             <l>Of cheerleſs poverty. How many ſhake</l>
             <l>With all the fiercer tortures of the mind,</l>
             <l>Unbounded paſſion, madneſs, guilt, remorſe;</l>
@@ -1383,7 +1384,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>He thought as as a ſage, tho' he felt as a man.</l>
             </lg>
             <lg>
-               <pb n="57" facs="tcp:047474_0056_1023B21D87C77C50"/>
+               <pb n="57" facs="unknown:047474_0056_1023B21D87C77C50"/>
                <l>"Ah! why thus abandon'd to darkneſs and woe,</l>
                <l>Why thus lonely philomel flows thy ſad ſtrain?</l>
                <l>For ſpring ſhall return and a lover beſtow,</l>
@@ -1421,7 +1422,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Deſtruction before me, and ſorrow behind.</l>
                <l>O pity great Father of light, then I cry'd,</l>
                <l>
-                  <pb n="58" facs="tcp:047474_0057_1023B1E316E63A78"/>Thy creature, who fain would not wander from thee;</l>
+                  <pb n="58" facs="unknown:047474_0057_1023B1E316E63A78"/>Thy creature, who fain would not wander from thee;</l>
                <l>Lo, humbled in duſt, I relinquiſh my pride:</l>
                <l>From doubt and from darkneſs thou only canſt free.</l>
                <l>And darkneſs and doubt are now flying away,</l>
@@ -1458,7 +1459,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Dim roll my eyes, my viſage fades,</l>
                <l>My hollow cheeks decay;</l>
                <l>
-                  <pb n="59" facs="tcp:047474_0058_1023B220D90B4140"/>Each part the dire diſeaſe invades,</l>
+                  <pb n="59" facs="unknown:047474_0058_1023B220D90B4140"/>Each part the dire diſeaſe invades,</l>
                <l>And nature pines away.</l>
             </lg>
             <lg>
@@ -1503,7 +1504,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>The humble are ſecure.</l>
             </lg>
             <lg>
-               <pb n="60" facs="tcp:047474_0059_1023B1E4A4A7D9A0"/>
+               <pb n="60" facs="unknown:047474_0059_1023B1E4A4A7D9A0"/>
                <l>Teach me to bleſs my lowly lot,</l>
                <l>Confin'd to this paternal cot,</l>
                <l>Remote from regal ſtate;</l>
@@ -1549,7 +1550,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>Come then expreſſive Silence! muſe his praiſe.</l>
          </div>
          <div type="poem">
-            <pb n="61" facs="tcp:047474_0060_1023B22341194FA0"/>
+            <pb n="61" facs="unknown:047474_0060_1023B22341194FA0"/>
             <head>Deſcription of Jehovah, from the <hi>xviiith</hi> pſalm.</head>
             <lg>
                <l>HE ſpoke: and lo! the heav'ns were bow'd;</l>
@@ -1585,7 +1586,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
          </div>
          <div type="ode">
-            <pb n="62" facs="tcp:047474_0061_1023B1E6464C2EC0"/>
+            <pb n="62" facs="unknown:047474_0061_1023B1E6464C2EC0"/>
             <head>CHARITY: AN ODE.</head>
             <lg>
                <l>"ASCEND the bark, the ſail expand;</l>
@@ -1615,7 +1616,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Thus Charity the chief addreſs'd,</l>
                <l>And warm'd with ſacred zeal, his his breaſt.</l>
                <l>
-                  <pb n="63" facs="tcp:047474_0062_1023B224C502C2B8"/>His ready feet the bark aſcend;</l>
+                  <pb n="63" facs="unknown:047474_0062_1023B224C502C2B8"/>His ready feet the bark aſcend;</l>
                <l>His friends, a pious train attend.</l>
                <l>Hope ſmiles, affection vainly pleads,</l>
                <l>And Albion's guilty ſhore recedes.</l>
@@ -1658,7 +1659,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>"From temples, let your vows aſcend;</l>
                <l>"Or private in your cloſets bend.</l>
                <l>
-                  <pb n="64" facs="tcp:047474_0063_1023B1E9B0535680"/>"By prieſtly zeal or pow'r unaw'd,</l>
+                  <pb n="64" facs="unknown:047474_0063_1023B1E9B0535680"/>"By prieſtly zeal or pow'r unaw'd,</l>
                <l>"Let all in freedom worſhip God."</l>
             </lg>
             <lg>
@@ -1700,7 +1701,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>AVAUNT! ye noiſy ſons of wine,</l>
                <l>Nor round your brows my roſes twine:</l>
                <l>
-                  <pb n="65" facs="tcp:047474_0064_1023B22728E37BC8"/>'Twas not for you that Flora here</l>
+                  <pb n="65" facs="unknown:047474_0064_1023B22728E37BC8"/>'Twas not for you that Flora here</l>
                <l>Beſtow'd thoſe beauties of the year.</l>
             </lg>
             <lg>
@@ -1735,7 +1736,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Thy virtue never dies.</l>
             </lg>
             <lg>
-               <pb n="66" facs="tcp:047474_0065_1023B1EB35BB5B18"/>
+               <pb n="66" facs="unknown:047474_0065_1023B1EB35BB5B18"/>
                <l>But ſweet Camelia, wilt thou fall,</l>
                <l>And ſhall no ſorrows flow,</l>
                <l>We muſt reſign when heav'n does call,</l>
@@ -1771,7 +1772,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>And, long on this returning day,</l>
             <l>May thus my muſe exulting ſay:</l>
             <l>
-               <pb n="67" facs="tcp:047474_0066_1023B228C265B178"/>So may the fates be kind to me,</l>
+               <pb n="67" facs="unknown:047474_0066_1023B228C265B178"/>So may the fates be kind to me,</l>
             <l>As I am kind and true to thee.</l>
             <l>As I ſhall tenderly remove</l>
             <l>Each trace of ſorrows from my love.</l>
@@ -1808,7 +1809,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
          </div>
          <div type="poem">
-            <pb n="68" facs="tcp:047474_0067_1023B1EF85933348"/>
+            <pb n="68" facs="unknown:047474_0067_1023B1EF85933348"/>
             <head>Verſes written by a Gentleman on ſeeing his Child aſleep in the cradle, juſt before his going to priſon.</head>
             <lg>
                <l>SOFT babe! ſweet image of a harmleſs mind!</l>
@@ -1844,7 +1845,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>What thy fond parent feels—now feels for thee,</l>
                <l>Tho' thou feels nothing.—O would kind heaven grant</l>
                <l>
-                  <pb facs="tcp:047474_0068_1023B22C180C5F40"/>Thou ne'er might'ſt wake again! how ſweet to paſs</l>
+                  <pb facs="unknown:047474_0068_1023B22C180C5F40"/>Thou ne'er might'ſt wake again! how ſweet to paſs</l>
                <l>From earth to heaven on ſuch a gentle wing?</l>
                <l>Theſe looks world fix a ſmile on death's pale cheek!</l>
             </lg>
@@ -1881,7 +1882,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And light to me, and to this babe reſtore!</l>
             </lg>
             <lg>
-               <pb n="70" facs="tcp:047474_0069_1023B1F205DE9FE0"/>
+               <pb n="70" facs="unknown:047474_0069_1023B1F205DE9FE0"/>
                <l>Thro' life be this reſolve purſued,</l>
                <l>Whate'er your lot ſhall be,</l>
                <l>To act with perfect rectitude,</l>
@@ -1916,7 +1917,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>Of innocence allures his ſteps; how hope</l>
             <l>Fixes his eye on future joy, that flies</l>
             <l>
-               <pb n="71" facs="tcp:047474_0070_1023B22F5B882820"/>His fond purſuit; how fear his ſhuddering heart</l>
+               <pb n="71" facs="unknown:047474_0070_1023B22F5B882820"/>His fond purſuit; how fear his ſhuddering heart</l>
             <l>Alarms with fancy'd ill; how doubt and care</l>
             <l>Perplex his thought; how ſoon the tender roſe</l>
             <l>Of beauty fades; the ſturdy oak of ſtrength</l>
@@ -1949,7 +1950,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>If ought on earth the immortal pow'rs deride,</l>
             <l>Tis ſurely this—the littleneſs of pride.</l>
             <l>
-               <pb n="72" facs="tcp:047474_0071_1023B1F38BE11F58"/>—I look on chearfulneſs,</l>
+               <pb n="72" facs="unknown:047474_0071_1023B1F38BE11F58"/>—I look on chearfulneſs,</l>
             <l>As on the health of virtue.</l>
          </div>
          <div type="poem">
@@ -1978,7 +1979,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>—Alas! where ſhall we find</l>
             <l>Some ſpot to real happineſs confin'd?</l>
             <l>
-               <pb n="73" facs="tcp:047474_0072_1023B230E10FEDA0"/>Friendſhip! myſterious cement of the ſoul!</l>
+               <pb n="73" facs="unknown:047474_0072_1023B230E10FEDA0"/>Friendſhip! myſterious cement of the ſoul!</l>
             <l>Sweetner of life, and ſweetner of ſociety!</l>
             <l>I owe thee much.—</l>
          </div>
@@ -2020,7 +2021,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Teach me to ſhun the ſlipp'ry way,</l>
                <l>Where vice and folly reign,</l>
                <l>
-                  <pb n="74" facs="tcp:047474_0073_1023B1F512690B10"/>Like clouds which darken nature's day,</l>
+                  <pb n="74" facs="unknown:047474_0073_1023B1F512690B10"/>Like clouds which darken nature's day,</l>
                <l>And ſadden all the plain.</l>
             </lg>
             <lg>
@@ -2068,7 +2069,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>Ever, from early youth to hoary age,</l>
             <l>By virtue's precepts and by wiſdom led:</l>
             <l>
-               <pb n="75" facs="tcp:047474_0074_1023B23441D4C000"/>For them no change of time can ever ſhake,</l>
+               <pb n="75" facs="unknown:047474_0074_1023B23441D4C000"/>For them no change of time can ever ſhake,</l>
             <l>Nor death himſelf their peace or ſteady purpoſe break.</l>
          </div>
          <div type="poem">
@@ -2105,7 +2106,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>With yon muſe-haunted grot.</l>
             </lg>
             <lg>
-               <pb n="76" facs="tcp:047474_0075_1023B1F6A15BA858"/>
+               <pb n="76" facs="unknown:047474_0075_1023B1F6A15BA858"/>
                <l>Which ſtill inſpires the penſive mind,</l>
                <l>Which awes the fancy ſtill,</l>
                <l>Tho' guſhing now, no more we find,</l>
@@ -2153,7 +2154,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>That dreary priſon, barr'd by fate,</l>
                <l>Be now in ſilence bound;</l>
                <l>
-                  <pb n="77" facs="tcp:047474_0076_1023B236B1602AD0"/>And ſhall thy ſhores reberberate,</l>
+                  <pb n="77" facs="unknown:047474_0076_1023B236B1602AD0"/>And ſhall thy ſhores reberberate,</l>
                <l>
                   <hi>No more</hi> the ſprightly ſound?</l>
             </lg>
@@ -2197,7 +2198,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>To that SOLE BEING, merciful and juſt.</l>
          </div>
          <div type="poem">
-            <pb n="78" facs="tcp:047474_0077_1023B1FBE467FA10"/>
+            <pb n="78" facs="unknown:047474_0077_1023B1FBE467FA10"/>
             <head>ON FRIENDSHIP.</head>
             <l>"A gen'rous <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
@@ -2235,7 +2236,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Emblems of thy fairer mind.</l>
             </lg>
             <lg>
-               <pb n="79" facs="tcp:047474_0078_1023B238383EBA38"/>
+               <pb n="79" facs="unknown:047474_0078_1023B238383EBA38"/>
                <l>But, dear g<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rl, both flow'rs and beauty,</l>
@@ -2280,7 +2281,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                   <hi>Qeſt.</hi> TELL me what genius did the art invent,</l>
                <l>The lively immage of a voice to paint,</l>
                <l>
-                  <pb n="80" facs="tcp:047474_0079_1023B1FE4FEB16A8"/>Who firſt the ſecret how to colour found,</l>
+                  <pb n="80" facs="unknown:047474_0079_1023B1FE4FEB16A8"/>Who firſt the ſecret how to colour found,</l>
                <l>And to give ſhape to reaſon wiſely found?</l>
                <l>With bodies how to clothe, ideas taught,</l>
                <l>And how to draw the ple<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -2324,7 +2325,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
             <lg>
                <pb n="81"
-                   facs="tcp:047474_0080_1023B23AC2A30898"
+                   facs="unknown:047474_0080_1023B23AC2A30898"
                    rendition="simple:additions"/>
                <l>Ere ev'ning came, ill fated fell;</l>
                <l>Struck by a hand unſeen,</l>
@@ -2379,7 +2380,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                   </gap> a ſummer's day.</l>
             </lg>
             <lg>
-               <pb n="82" facs="tcp:047474_0081_1023B1FFDBC0C450"/>
+               <pb n="82" facs="unknown:047474_0081_1023B1FFDBC0C450"/>
                <l>The dawn of reaſon we admir'd,</l>
                <l>As op'ning bloſſoms fair,</l>
                <l>Now to the ſilent grave retir'd,</l>
@@ -2419,7 +2420,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>The ſport of every wind.</l>
             </lg>
             <lg>
-               <pb n="83" facs="tcp:047474_0082_1023B23E0480D500"/>
+               <pb n="83" facs="unknown:047474_0082_1023B23E0480D500"/>
                <l>Maria to the woodbine bow'r</l>
                <l>With Emma chanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2470,7 +2471,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>No, tho' my parent dies!"</l>
             </lg>
             <lg>
-               <pb n="84" facs="tcp:047474_0083_1023B2016AC1E858"/>
+               <pb n="84" facs="unknown:047474_0083_1023B2016AC1E858"/>
                <l>In vain the murmurs of diſtreſs,</l>
                <l>Aſſail'd Maria's ear;</l>
                <l>What miſery would fain expreſs,</l>
@@ -2515,7 +2516,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And meditation waſte the ſoul to heav'n.</l>
             </lg>
             <lg>
-               <pb n="86" facs="tcp:047474_0084_1023B2406DA31718"/>
+               <pb n="86" facs="unknown:047474_0084_1023B2406DA31718"/>
                <l>Unruffled flows the tenor of his day,</l>
                <l>'Till time's white honors o'er his temple wave,</l>
                <l>And Reſignation ſmiling, midſt decay,</l>
@@ -2561,7 +2562,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>When aim'd to ſtrike the ſickly breaſt.</l>
             </lg>
             <lg>
-               <pb n="86" facs="tcp:047474_0085_1023B204AFAFAC10"/>
+               <pb n="86" facs="unknown:047474_0085_1023B204AFAFAC10"/>
                <l>Let other thoughts thy mind employ,</l>
                <l>Let true religion be thy guide;</l>
                <l>Let virtuous acts be all thy joy,</l>
@@ -2600,7 +2601,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Returning juſtice lift aloft her ſcale:</l>
                <l>Peace o'er the world her olive wand extend,</l>
                <l>
-                  <pb n="87" facs="tcp:047474_0086_1023B241F4151D58"/>And white rob'd innocence from heaven deſcend.</l>
+                  <pb n="87" facs="unknown:047474_0086_1023B241F4151D58"/>And white rob'd innocence from heaven deſcend.</l>
                <l>Swift fly the years, and riſe th' expected morn!</l>
                <l>Oh ſpring to light, auſpicious babe, be born!</l>
                <l>See nature haſtes her earlieſt wreaths to bring,</l>
@@ -2636,7 +2637,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>The tender lambs he raiſes in his arms;</l>
                <l>Feeds from his hand, and in his boſom warms;</l>
                <l>
-                  <pb n="88" facs="tcp:047474_0087_1023B207F50A1830"/>Thus ſhall mankind his guardian care engage,</l>
+                  <pb n="88" facs="unknown:047474_0087_1023B207F50A1830"/>Thus ſhall mankind his guardian care engage,</l>
                <l>The promis'd Father of the future age.</l>
                <l>No more ſhall nation againſt nation riſe,</l>
                <l>Nor ardent warriors meet with hateful eyes,</l>
@@ -2672,7 +2673,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>See future ſons and daughters yet unborn,</l>
                <l>In crowding ranks on ev'ry ſide ariſe,</l>
                <l>
-                  <pb n="89" facs="tcp:047474_0088_10239F3C449CA618"/>Demanding life, impatient for the ſkies.</l>
+                  <pb n="89" facs="unknown:047474_0088_10239F3C449CA618"/>Demanding life, impatient for the ſkies.</l>
                <l>See barb'rous nations at thy gates attend,</l>
                <l>Walk in thy light and in thy temple bend;</l>
                <l>See thy bright altars throng'd with proſtrate kings,</l>
@@ -2711,7 +2712,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>With concert full, on ev'ry ſpray,</l>
                <l>The vocal tenants of the grove,</l>
                <l>
-                  <pb n="90" facs="tcp:047474_0089_1023B2097A5A3F68"/>In many a wildly warbled lay,</l>
+                  <pb n="90" facs="unknown:047474_0089_1023B2097A5A3F68"/>In many a wildly warbled lay,</l>
                <l>Mellifluous tell their artleſs love.</l>
             </lg>
             <lg>
@@ -2759,7 +2760,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Beneath thoſe rugged elms, that yew-tree's ſhade,</l>
                <l>Where heaves the turf in many a mould ring heap</l>
                <l>
-                  <pb n="91" facs="tcp:047474_0090_1023B24831537CB8"/>Each in his narrow cell forever laid,</l>
+                  <pb n="91" facs="unknown:047474_0090_1023B24831537CB8"/>Each in his narrow cell forever laid,</l>
                <l>The rude forefathers of the hamlet ſleep.</l>
             </lg>
             <lg>
@@ -2826,7 +2827,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Some heart once pregnant with celeſtial fire<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="92" facs="tcp:047474_0091_1023B20D30565BF0"/>Hands, that the rod of empire might have ſway'd</l>
+                  <pb n="92" facs="unknown:047474_0091_1023B20D30565BF0"/>Hands, that the rod of empire might have ſway'd</l>
                <l>Or wak'd to extacy the living lyre.</l>
             </lg>
             <lg>
@@ -2875,7 +2876,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Yet, ev'n theſe bones from inſult to protect,</l>
                <l>Some frail memorial ſtill erected nigh,</l>
                <l>
-                  <pb n="93" facs="tcp:047474_0092_1023B24AA5017ED8"/>With uncouth rhymes and ſhapeleſs ſculpture deck'd,</l>
+                  <pb n="93" facs="unknown:047474_0092_1023B24AA5017ED8"/>With uncouth rhymes and ſhapeleſs ſculpture deck'd,</l>
                <l>Implores the paſſing tribute of a ſigh.</l>
             </lg>
             <lg>
@@ -2926,7 +2927,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>One morn I miſs'd him on th' accuſtom'd hill,</l>
                <l>Along the heath, and near his fav'rite tree;</l>
                <l>
-                  <pb n="94" facs="tcp:047474_0093_1023B20FCB585F88"/>Another came; nor yet beſide the rill,</l>
+                  <pb n="94" facs="unknown:047474_0093_1023B20FCB585F88"/>Another came; nor yet beſide the rill,</l>
                <l>Nor up the lawn, nor at the wood was he.</l>
             </lg>
             <lg>
@@ -2969,7 +2970,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Now throws the weſtern ſun a fainter glare,</l>
                <l>And ſilence ſoothes the veſtal world to reſt,</l>
                <l>
-                  <pb n="95" facs="tcp:047474_0094_1023B24C29AB4C20"/>Save where ſome pale-ey'd novice wrap'd in pray'r,</l>
+                  <pb n="95" facs="unknown:047474_0094_1023B24C29AB4C20"/>Save where ſome pale-ey'd novice wrap'd in pray'r,</l>
                <l>Heaves a deep ſigh and ſmites her guiltleſs breaſt.</l>
             </lg>
             <lg>
@@ -3018,7 +3019,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Nor you, ye vain, impute to thoſe the fault,</l>
                <l>If flatt'ry to their fame no trophies raiſe,</l>
                <l>
-                  <pb n="96" facs="tcp:047474_0095_1023B211514BB048"/>Where thro' the dome with grandeur's treaſure fraught,</l>
+                  <pb n="96" facs="unknown:047474_0095_1023B211514BB048"/>Where thro' the dome with grandeur's treaſure fraught,</l>
                <l>The num'rous foplings lift the voice of praiſe</l>
             </lg>
             <lg>
@@ -3064,7 +3065,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>And yield to vanity the ſlacken'd rein.</l>
             </lg>
             <lg>
-               <pb n="97" facs="tcp:047474_0096_1023B24DAF8851D8"/>
+               <pb n="97" facs="unknown:047474_0096_1023B24DAF8851D8"/>
                <l>To raiſe 'mid Hymen's joys domeſtic ſtrife,</l>
                <l>Or ſeek the converſe which they ought to ſhun</l>
                <l>To looſe the ſacred ties of nuptual life,</l>
@@ -3113,7 +3114,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>At yonder altar join the matin lay.</l>
             </lg>
             <lg>
-               <pb n="98" facs="tcp:047474_0097_1023B213B6B4A380"/>
+               <pb n="98" facs="unknown:047474_0097_1023B213B6B4A380"/>
                <l>There at the foot of yonder nodding beech,</l>
                <l>That wreathes its curling branches up ſo high;</l>
                <l>His careleſs length at noon-tide would he ſtretch,</l>
@@ -3158,7 +3159,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>OF manners gentle, of affection mild,</l>
             <l>In wit a man, ſimplicity a child.</l>
             <l>
-               <pb n="99" facs="tcp:047474_0098_1023B251D862C470"/>With <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb n="99" facs="unknown:047474_0098_1023B251D862C470"/>With <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> temp'ring virtuous rage,</l>
             <l>
@@ -3202,7 +3203,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>Her mind was virtue, by the Graces dreſt.</l>
          </div>
          <div type="poem">
-            <pb n="100" facs="tcp:047474_0099_1023B3358B699D98"/>
+            <pb n="100" facs="unknown:047474_0099_1023B3358B699D98"/>
             <head>An Epitaph on a poor, but honeſt Man.</head>
             <l>STOP, reader, here, and deign a look</l>
             <l>On one without a name,</l>
@@ -3235,7 +3236,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>With the poor crooked ſythe and ſpade.</l>
             </lg>
             <lg>
-               <pb n="101" facs="tcp:047474_0100_1023B260E9C3ECD0"/>
+               <pb n="101" facs="unknown:047474_0100_1023B260E9C3ECD0"/>
                <l>Some men with ſwords may reap the field,</l>
                <l>And plant freſh la<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
@@ -3276,7 +3277,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             <l>The worſt of tyrants in the nobleſt cauſe.</l>
          </div>
          <div type="poem">
-            <pb n="102" facs="tcp:047474_0101_1023B2547B4FF5C0"/>
+            <pb n="102" facs="unknown:047474_0101_1023B2547B4FF5C0"/>
             <head>An Elegy, to the memory of John Foreman.</head>
             <epigraph>
                <q>
@@ -3326,7 +3327,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Who clad the naked, who the hungry fed?</l>
                <l>Who gave a welcome to the vagrant poor?</l>
                <l>
-                  <pb n="103" facs="tcp:047474_0102_1023B26368194628"/>Who <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="103" facs="unknown:047474_0102_1023B26368194628"/>Who <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>os'd the bondſman's chains when captive</l>
                <l>Who drave temptation from the needy's door?</l>
@@ -3372,7 +3373,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                   </gap>,</l>
                <l>The lightning innocently plays,</l>
                <l>
-                  <pb n="104" facs="tcp:047474_0103_1023B256044C3C28"/>And the loud tempeſt idly raves—</l>
+                  <pb n="104" facs="unknown:047474_0103_1023B256044C3C28"/>And the loud tempeſt idly raves—</l>
                <l>Firm Faith behold!—prepar'd for flight,</l>
                <l>Towards heav'n ſhe boldly caſts her daring eyes:</l>
                <l>Enraptur'd views the flood of light,</l>
@@ -3412,7 +3413,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Where melting in ſeraphic airs,</l>
                <l>She piouſly adores her Father and her God.</l>
                <l>
-                  <pb n="105" facs="tcp:047474_0104_1023B2650C90F310"/>When all our weak reſources fail,</l>
+                  <pb n="105" facs="unknown:047474_0104_1023B2650C90F310"/>When all our weak reſources fail,</l>
                <l>When friends forſake, and foes aſſail,</l>
                <l>Thy ſure aſſiſtance let us ſhare,</l>
                <l>And chace the monſter, fell Deſpair.</l>
@@ -3453,7 +3454,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>Ah! deign thy humble vot'ries to befriend!</l>
                <l>Guard us, bright ſeraph! from corroding care!</l>
                <l>
-                  <pb n="106" facs="tcp:047474_0105_1023B25793485EF0"/>And Valour rivalling old Rome,</l>
+                  <pb n="106" facs="unknown:047474_0105_1023B25793485EF0"/>And Valour rivalling old Rome,</l>
                <l>The ſhuttle throws or rears the dome.</l>
             </lg>
             <lg>
@@ -3491,7 +3492,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
                <l>A dazzling light, without the ſun return'd,</l>
                <l>And thro' the midnight's duſky horror burn'd.</l>
                <l>
-                  <pb n="107" facs="tcp:047474_0106_1023B267A7ACFF68"/>Sonorous voices trembling from afar,</l>
+                  <pb n="107" facs="unknown:047474_0106_1023B267A7ACFF68"/>Sonorous voices trembling from afar,</l>
                <l>And ſoftly warbled through the trembling air.</l>
                <l>When ſoon, behold! the ſolemn ſilence broke,</l>
                <l>And thus, in pleaſing words the angels ſpoke:</l>
@@ -3525,7 +3526,7 @@ we ſet out, by what means we may find each other again. Should it be my ill fat
             </lg>
          </div>
          <div type="poem">
-            <pb n="108" facs="tcp:047474_0107_1023B25952517FB8"/>
+            <pb n="108" facs="unknown:047474_0107_1023B25952517FB8"/>
             <head>
                <hi>A HYMN,</hi> Suppoſed to have been written by an Engliſh Officer.</head>
             <lg>
